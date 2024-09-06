@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Mohammed Salif Sameer Shaikh (a.k.a. Salif Shaikh)
+## 👋 Hi there! I'm Mohammed Salif Sameer Shaikh (a.k.a. Salif Shaikh)
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and a driven Entrepreneur with a knack for building efficient, scalable, and impactful web applications. With a solid foundation in Computer Science and a diverse skill set spanning both frontend and backend technologies, I thrive on crafting solutions that not only meet business needs but exceed expectations.
 
@@ -25,17 +25,18 @@ My journey is defined by continuous learning, adaptability, and a commitment to 
 
 #### 🌟 Key Achievements
 
-    Successfully developed multiple full-stack applications from scratch using ReactJS and NodeJS, driving efficient, scalable solutions for various clients.
-    Spearheaded the creation and integration of RESTful APIs using ExpressJS and TypeScript, ensuring seamless communication and data flow between different services.
-    Proficiently managed and manipulated data with MongoDB and PostgreSQL, creating custom queries, developing stored procedures, and optimizing data storage solutions.
-    Played a pivotal role in expediting the development process by effectively coordinating with technical service providers and collaborating closely with cross-functional teams.
-    Acquired extensive knowledge and hands-on experience in cloud technologies and tools such as AWS, Terraform, Kubernetes, Helm, Prometheus, and Grafana by working closely with a dedicated DevOps team.
-    Leveraged tools like Postman for API testing and debugging, ensuring robustness and reliability in all deployed applications.
-    Adapted swiftly to new technologies and frameworks, constantly expanding my tech stack to deliver state-of-the-art solutions.
+Successfully developed multiple full-stack applications from scratch using ReactJS and NodeJS, driving efficient, scalable solutions for various clients.
+Spearheaded the creation and integration of RESTful APIs using ExpressJS and TypeScript, ensuring seamless communication and data flow between different services.
+Proficiently managed and manipulated data with MongoDB and PostgreSQL, creating custom queries, developing stored procedures, and optimizing data storage solutions.
+Played a pivotal role in expediting the development process by effectively coordinating with technical service providers and collaborating closely with cross-functional teams.
+Acquired extensive knowledge and hands-on experience in cloud technologies and tools such as AWS, Terraform, Kubernetes, Helm, Prometheus, and Grafana by working closely with a dedicated DevOps team.
+Leveraged tools like Postman for API testing and debugging, ensuring robustness and reliability in all deployed applications.
+Adapted swiftly to new technologies and frameworks, constantly expanding my tech stack to deliver state-of-the-art solutions.
+
 
 #### 🌐 Connect With Me
-    LinkedIn: [linkedin.com/in/salifshaikh](https://www.linkedin.com/in/salif-shaikh-2b6412253/)
-    Email: mdsalifsk@gmail.com
+LinkedIn: [linkedin.com/in/salifshaikh](https://www.linkedin.com/in/salif-shaikh-2b6412253/)
+Email: mdsalifsk@gmail.com
 
 #### 📊 Let's Build Together!
 
