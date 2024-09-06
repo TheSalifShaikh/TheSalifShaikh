@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Mohammed Salif Sameer Shaikh (a.k.a. Salif Shaikh)
+# 👋 Hi! I'm Mohammed Salif Sameer Shaikh (a.k.a. Salif Shaikh)
 
 Welcome to my GitHub profile! I'm a Full-Stack Developer and Entrepreneur with a knack for building efficient, scalable, and impactful web applications. With a solid foundation in Computer Science and a diverse skill set spanning both frontend and backend technologies, I thrive on crafting solutions that not only meet business needs but exceed expectations.
 
