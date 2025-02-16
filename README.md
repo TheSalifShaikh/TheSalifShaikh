@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer and Entrepreneur with a
 
 ### 🚀 About Me
 
-I’m a results-oriented professional with extensive experience in web application development, specializing in JavaScript, TypeScript, and various frameworks. I excel in creating dynamic and responsive applications using ReactJS, NodeJS, ExpressJS, and managing data solutions with PostgreSQL and MongoDB. Whether it's building robust RESTful APIs, designing intuitive user interfaces, or architecting data solutions, I bring a holistic approach to software development.
+I’m a results-oriented professional with extensive experience in web application development, specializing in JavaScript, TypeScript, and various frameworks. I excel in creating dynamic and responsive applications using NextJs, ReactJS, NodeJS, ExpressJS, and managing data solutions with PostgreSQL and MongoDB. Whether it's building robust RESTful APIs, designing intuitive user interfaces, or architecting data solutions, I bring a holistic approach to software development.
 
 My journey is defined by continuous learning, adaptability, and a commitment to quality. I've had the privilege of working alongside talented cross-functional teams, where I have contributed from end-to-end software development, encompassing requirement analysis, system design, coding, testing, debugging, and implementation.
 
